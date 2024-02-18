@@ -1,0 +1,3 @@
+recog-backend/.env
+recog-backend/__pycache__/main.cpython-39.pyc
+recog-backend/faces.db
